@@ -21,7 +21,7 @@
   "shortName": "hp",
   "chainId": 6985385,
   "networkId": 6985385,
-  "status": "active",
+  "status": "deprecated",
   "explorers": [
     {
       "name": "Humanity Mainnet explorer",
